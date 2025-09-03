@@ -145,4 +145,5 @@ Developed as part of an academic project by Sidali BEGGAR and Souhail ELFRAIHI, 
 
 ## License
 
-Academic use - Copyright 2014, ESI - Algier
+Academic use - Copyright 2014, ESI - Algiers
+
